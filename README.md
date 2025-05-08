@@ -55,16 +55,21 @@ Metodologia e abordagem:
 
 
 Desafios e aprendizados:
+
 📊 Benefícios do Projeto
+
   ✅ Eliminação de erros comuns em planilhas manuais.
   ✅ Economia de tempo 
   ✅ Visualização dos indicadores aprimorada
   ✅ Fácil entendimento 
 
+
+Link do Projeto:
+
+https://app.powerbi.com/view?r=eyJrIjoiN2RkZjI3YjItZDE1NS00ZjNlLWJjMTAtZWE2YjA1N2VhZDNlIiwidCI6ImY1MDM4NzBkLTBhYWUtNDI1Mi05ZjE1LWQ2MTg5NmY5ZjZmZiJ9
+
+
 ![Captura de tela 2025-02-25 111001](https://github.com/user-attachments/assets/00903ac3-4028-45b9-9310-47482d56666a)
-
-
-
 
 
 ![Captura de tela 2025-02-25 111049](https://github.com/user-attachments/assets/6200901e-95a3-44ca-b794-808913bedab4)
