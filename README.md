@@ -63,7 +63,10 @@ Desafios e aprendizados:
 
 ![Captura de tela 2025-02-25 111001](https://github.com/user-attachments/assets/00903ac3-4028-45b9-9310-47482d56666a)
 
-![Captura de tela 2025-02-25 111131](https://github.com/user-attachments/assets/d9196f0d-2131-40be-b9e5-3ab2b7bee395)
+![Captura de tela 2025-02-25 111001](https://github.com/user-attachments/assets/a974d33e-8cf9-4aa5-9849-c919a1876c0f)
+
+![Captura de tela 2025-02-25 111049](https://github.com/user-attachments/assets/6200901e-95a3-44ca-b794-808913bedab4)
+
 
 ![Captura de tela 2025-02-25 111131](https://github.com/user-attachments/assets/8eab3ad5-2331-421a-8481-2eaf34279cf3)
 
