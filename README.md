@@ -63,7 +63,8 @@ Desafios e aprendizados:
 
 ![Captura de tela 2025-02-25 111001](https://github.com/user-attachments/assets/00903ac3-4028-45b9-9310-47482d56666a)
 
-![Captura de tela 2025-02-25 111049](https://github.com/user-attachments/assets/6c5dee11-7e32-41a7-ba06-c97eb899847e)
+
+
 
 
 ![Captura de tela 2025-02-25 111049](https://github.com/user-attachments/assets/6200901e-95a3-44ca-b794-808913bedab4)
