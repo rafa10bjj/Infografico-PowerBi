@@ -4,9 +4,11 @@ Olá!
 
 Trago mais um projeto desenvolvido no Power BI , desta vez storytelling intuitivo e de fácil compreensão .
 
+![Captura de tela 2025-02-25 110936](https://github.com/user-attachments/assets/41f045c8-9be9-4381-96ca-fc481fbe4015)
+
+
 O projeto foi inspirado na Pinski Modas ,uma solução eficiente para o acompanhamento de metas, desempenho da equipe de vendas e desempenho dos produtos.
 Contexto e objetivos:
-![Captura de tela 2025-02-25 110936](https://github.com/user-attachments/assets/41f045c8-9be9-4381-96ca-fc481fbe4015)
 
 🎯 Desafio
 Muitos gestores ainda lidam com relatórios distribuídos em planilhas Excel ,
