@@ -25,11 +25,11 @@ Metodologia e abordagem:
 
 1️⃣ Extração e Modelagem de Dados (SQL & SSMS) <br>
 
-• O projeto é iniciado a partir de um banco de dados relacional (SQL) 
-• Usando a Ferramenta de Gerenciamento do SQL Server (SSMS)
-• Extração dos dados brutos: realizamos ETL transformando em (Tabela Fato e Dimensão)  
-• Para Garantir Modelagem do banco: aplicamos modelo estrela , otimizando as consultas
-• Em seguida Criação das Views.
+• O projeto é iniciado a partir de um banco de dados relacional (SQL) <br>
+• Usando a Ferramenta de Gerenciamento do SQL Server (SSMS) <br>
+• Extração dos dados brutos: realizamos ETL transformando em (Tabela Fato e Dimensão)  <br>
+• Para Garantir Modelagem do banco: aplicamos modelo estrela , otimizando as consultas <br>
+• Em seguida Criação das Views. <br>
 
 2️⃣ Conexão e Processamento no Power BI
 • Estabelecemos a conexão entre o Power BI e o banco de dados
