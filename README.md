@@ -40,12 +40,12 @@ Metodologia e abordagem:
 • Criamos a Dimensão Calendário, para melhor perfomace nas datas.
 •Utilizamos DAX (Data Analysis Expressions) para criação das medidas principais.
 
-  ✅ Faturamento total 
-  ✅ Margem e % Margem
-  ✅ Metas de vendas
-  ✅ Número de Notas Fiscais Emitidas
-  ✅ Custo total
-  ✅ Ticket Médio
+  ✅ Faturamento total <br>
+  ✅ Margem e % Margem<br>
+  ✅ Metas de vendas <br>
+  ✅ Número de Notas Fiscais Emitidas <br>
+  ✅ Custo total <br>
+  ✅ Ticket Médio <br>
 
 4️⃣ Construção das Visualizações
 
@@ -58,10 +58,10 @@ Desafios e aprendizados:
 
 📊 Benefícios do Projeto
 
-  ✅ Eliminação de erros comuns em planilhas manuais.
-  ✅ Economia de tempo 
-  ✅ Visualização dos indicadores aprimorada
-  ✅ Fácil entendimento 
+  ✅ Eliminação de erros comuns em planilhas manuais.<br>
+  ✅ Economia de tempo <br>
+  ✅ Visualização dos indicadores aprimorada <br>
+  ✅ Fácil entendimento  <br>
 
 
 Link do Projeto:
