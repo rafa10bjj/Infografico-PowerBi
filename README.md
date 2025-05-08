@@ -23,7 +23,7 @@ Resultados e impacto:
 O resultado mais impactante a de fato a visualização dos dados  com a ferramenta, que deixam o usuario mais por dentro do que realmente se passa no eventos .
 Metodologia e abordagem:
 
-1️⃣ Extração e Modelagem de Dados (SQL & SSMS)
+1️⃣ Extração e Modelagem de Dados (SQL & SSMS) <br>
 
 • O projeto é iniciado a partir de um banco de dados relacional (SQL) 
 • Usando a Ferramenta de Gerenciamento do SQL Server (SSMS)
